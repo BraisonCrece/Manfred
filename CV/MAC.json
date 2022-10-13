@@ -1,0 +1,414 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Brais",
+      "surnames": "Fernández Díaz",
+      "description": "I love web development and programming! ❤ \nThe more I know, the more I want to know. At the same time I am able to enjoy the journey immensely. I love what I do\n\nWhen faced with unforeseen events, I like to focus on finding solutions and my lifestyle is based on humility, curiosity and continuous learning.\n\nI am looking forward to finding a company that will give me the opportunity to show my potential and with which I can grow together!\n\nI am looking forward to finding a company that will give me the opportunity to show my potential and with which I can grow together!\n\nAmo el desarrollo web y la programación! Cuanto más se, más quiero saber. Cada día aprendo más mientras disfruto enormemente del camino. \nSoy optimista ,empatico, y feliz. \nAnte los imprevistos, me gusta centrarme en la búsqueda de soluciones y mi estilo de vida se basa en la humildad, la curiosidad y el aprendizaje continuo.\n\nEstoy deseando encontrar a una empresa que me de la oportunidad de mostrar mi potencial y con la cual poder crecer acompañados!",
+      "avatar": {
+        "alt": "eu.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/ce5bae68-dad3-4026-bc3c-e90533a0f40e_eu.png"
+      },
+      "location": {
+        "country": "España"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/brais-fernandez-diaz/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I have decided to specialize in Ruby on Rails ",
+        "fact": "I have small projects in my Github on this technology, but nothing serious yet.\nI have recently started a personal project that I am very excited about and with which I hope to learn as well as teach! I want to build a blog about Ruby on Rails in which I will upload articles and tutorials teaching (and at the same time learning more and more about the framework).\n\nLuckily I have by my side a great friend who is a Senior Developer in Ruby on Rails, and he is guiding and helping me a lot!\n\nI am totally committed to this goal, I want to work on Rails and get to mastery.\n"
+      },
+      {
+        "topic": "I love learning",
+        "fact": "If I dont know something, I don't have any kind of problem with start learning something new!\nI'm very self-taught."
+      },
+      {
+        "topic": "I love music that make me feel something, not 'reguetón' sorry",
+        "fact": "Some bands or songs that I love:\n- Plantasia, by Mort Garson (OMG)\n- Pink Floyd\n- Yma Sumac\n- Jex Opolis\n- Silvana Estrada\n- Frank Zappa"
+      }
+    ]
+  },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "BlogOnRails",
+          "description": "I will starting this week the project with my friend Eneko (RoR senior dev).\n\nThe main objective of this project is, first of all, to continue deepening in Ruby on Rails, and the workflow through GitHub.\n\nWe will do a simulation, Eneko will be the Product Manager and I will be the Junior Software Engineer. I think it's going to be great!\n\nThe project is based on building a blog 100% about RAILS where I will be able to upload useful articles about Ruby on Rails and news.\nSo, once the basic structure of the application is built, I will be able to add content that I have to research previously or things that I have just learned about the framework or web development in general.\n\nThen, on each iteration, I will add more features like a forum, or private message system.\n\nI will update the link to the project soon!!",
+          "URL": "https://github.com/BraisonCrece"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Scheduled Tweets",
+          "description": "In this application I am using Ruby on Rails and the Twitter API to build a web application that allows the user to have all their accounts (in case they have multiple accounts) in one place, and interact with them by scheduling the publication of tweets.",
+          "URL": "https://github.com/BraisonCrece/Scheduled_Tweets",
+          "image": {
+            "alt": "Captura desde 2022-10-13 20-03-52.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/d7b41873-86a6-4712-9c96-619bbe6928f4_captura-desde-2022-1.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Airbnb clone",
+          "description": "Being able to see a professional web developer at work (without video cuts) is a very enriching process. I am following TypeFast project on Youtube, taking notes on everything that is new to me, and learning about the actual flow of development:\n\nHave a problem --> Identify the source of the problem --> Know how to find information about the problem --> process the problem --> solve the problem.\n\n(I'm learning A LOT, and i'm pretty happy!)",
+          "URL": "https://github.com/BraisonCrece/Airbnb-clone",
+          "image": {
+            "alt": "Captura desde 2022-10-13 17-59-52.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/d5540a9b-3f1c-4448-a948-09a15adccbe9_captura-desde-2022-1.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "YAML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ciclo Superior de Desarrollo de aplicaciones Web",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "IES San Clemente",
+          "description": "Ciclo Superior con una duración de dos años.\nCursando actualmente, con muy buenas notas el primer año",
+          "URL": "https://www.iessanclemente.net",
+          "image": {
+            "alt": "notas-daw-1o.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/12/d86ea895-eb54-45b4-bf84-094595cff631_notas-daw-1o.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JSON",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Técnico instalador de Equipos Electrónicos de consumo",
+        "startDate": "2012-06-01",
+        "institution": {
+          "name": "IES Antón Losada Dieguez",
+          "description": "Electricidad y Electrónica de electrodomésticos domésticos.\nGrado medio de 2 años de duración."
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/brais-fernandez-diaz/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JSON",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        },
+        {
+          "name": "XML",
+          "type": "technology"
+        },
+        {
+          "name": "XSL",
+          "type": "technology"
+        },
+        {
+          "name": "YAML",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    }
+  }
+}
