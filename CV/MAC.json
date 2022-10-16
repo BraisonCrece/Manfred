@@ -75,8 +75,8 @@
       {
         "details": {
           "name": "Scheduled Tweets",
-          "description": "In this application I am using Ruby on Rails and the Twitter API to build a web application that allows the user to have all their accounts (in case they have multiple accounts) in one place, and interact with them by scheduling the publication of tweets.",
-          "URL": "https://github.com/BraisonCrece/Scheduled_Tweets",
+          "description": "PRACTICE PROJECT - SHEDULED TWEETS\nThe application allows the user to have multiple Twitter accounts and schedule tweets (Who would have thought!) which will be automatically tweeted at the set time.\n\nOn this project I have learned:\n\n- OmniAuth:\n     - config environments \n     - setting API keys \n- Rails Credentials\n    - Using rails credentials:edit to store the Twitter API credentials to development & \n      production \n- Backgroun Jobs\n    - Creating a TweetJob \n    - TweetJob.preform_later(@tweet) \n- Sidekiq and Redis\n    - Installing and setting up Redis-server\n    - Configuring active_job_queue_adapter = :sidekiq \n- Bootstrap \n- Session Cookies \n- PasswordMailer < ApplicationMailer\n    - Config environment to be able to reset passwords by email \n- Deploy application \n    - Scheduled Tweets \n\n\nIt has been a great learning experience. Let's keep going!\n",
+          "URL": "https://tweets-programados.fly.dev/",
           "image": {
             "alt": "Captura desde 2022-10-13 20-03-52.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/d7b41873-86a6-4712-9c96-619bbe6928f4_captura-desde-2022-1.png"
