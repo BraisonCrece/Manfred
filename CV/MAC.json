@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -14,7 +14,8 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/ce5bae68-dad3-4026-bc3c-e90533a0f40e_eu.png"
       },
       "location": {
-        "country": "España"
+        "country": "España",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -165,13 +166,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "Galician",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -409,6 +413,7 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
