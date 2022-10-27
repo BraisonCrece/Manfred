@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -14,8 +14,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/21/2e337672-c90c-4071-b833-a9cdde6b954b_group-1.png"
       },
       "location": {
-        "country": "España",
-        "notes": "Autocompleted using Google Maps API"
+        "country": "España"
       }
     },
     "relevantLinks": [
@@ -174,16 +173,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Galician",
-        "level": "Native or bilingual proficiency"
+        "name": "Galician"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -351,6 +347,27 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Java Certification",
+        "startDate": "2021-06-01",
+        "institution": {
+          "name": "OpenBootcamp",
+          "description": "Java Certification course - 15h 10mins",
+          "URL": "https://campus.open-bootcamp.com/cursos/5",
+          "image": {
+            "alt": "Captura desde 2022-10-27 13-12-56.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/d6aaceab-81b8-4cc6-b4c4-34b679454416_captura-desde-2022-1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Técnico instalador de Equipos Electrónicos de consumo",
@@ -421,7 +438,6 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
