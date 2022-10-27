@@ -357,6 +357,27 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Java professional Certification",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "CodigoFacilito",
+          "description": "Java Professional Course Certification - 6h",
+          "URL": "https://codigofacilito.com/cursos/java-profesional",
+          "image": {
+            "alt": "Captura desde 2022-10-27 13-22-16.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/3fd8dfd3-3dfa-4a9a-ae41-2702203a4d56_captura-desde-2022-1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ciclo Superior de Desarrollo de aplicaciones Web",
