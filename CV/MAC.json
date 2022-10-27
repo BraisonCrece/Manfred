@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -14,8 +14,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/21/2e337672-c90c-4071-b833-a9cdde6b954b_group-1.png"
       },
       "location": {
-        "country": "España",
-        "notes": "Autocompleted using Google Maps API"
+        "country": "España"
       }
     },
     "relevantLinks": [
@@ -43,38 +42,6 @@
     "projects": [
       {
         "details": {
-          "name": "BlogOnRails",
-          "description": "I will starting this week the project with my friend Eneko (RoR senior dev).\n\nThe main objective of this project is, first of all, to continue deepening in Ruby on Rails, and the workflow through GitHub.\n\nWe will do a simulation, Eneko will be the Product Manager and I will be the Junior Software Engineer. I think it's going to be great!\n\nThe project is based on building a blog 100% about RAILS where I will be able to upload useful articles about Ruby on Rails and news.\nSo, once the basic structure of the application is built, I will be able to add content that I have to research previously or things that I have just learned about the framework or web development in general.\n\nThen, on each iteration, I will add more features like a forum, or private message system.\n\nI will update the link to the project soon!!",
-          "URL": "https://github.com/BraisonCrece"
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-10-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby on Rails",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Scheduled Tweets",
           "description": "PRACTICE PROJECT - SHEDULED TWEETS\nThe application allows the user to have multiple Twitter accounts and schedule tweets (Who would have thought!) which will be automatically tweeted at the set time.\n\nOn this project I have learned:\n\n- OmniAuth:\n     - config environments \n     - setting API keys \n- Rails Credentials\n    - Using rails credentials:edit to store the Twitter API credentials to development & \n      production \n- Backgroun Jobs\n    - Creating a TweetJob \n    - TweetJob.preform_later(@tweet) \n- Sidekiq and Redis\n    - Installing and setting up Redis-server\n    - Configuring active_job_queue_adapter = :sidekiq \n- Bootstrap \n- Session Cookies \n- PasswordMailer < ApplicationMailer\n    - Config environment to be able to reset passwords by email \n- Deploy application \n    - Scheduled Tweets \n\n\nIt has been a great learning experience. Let's keep going!\n",
           "URL": "https://tweets-programados.fly.dev/",
@@ -99,6 +66,42 @@
               },
               {
                 "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "BlogOnRails",
+          "description": "As I go deeper into Ruby on Rails I discover many sections that were not easy for me to learn at the beginning. Therefore, I would like to share those \"discoveries\" with the intention of helping anyone else who is in the process of learning Rails.\n\nThis application is going to be a blog about Ruby on Rails and its ecosystem.\n\nHaving to write articles, I will have to do a lot of research on the topic beforehand.\n\nconstruction_worker It will be managed 100% by me, and the informative articles will be written to be easily understood (as much as possible).\n\nMy main goal is to make the platform a win/win (users access to interesting information / I learn and practice).\n\nIt will consist of the following sections:\n- Informative articles about using Ruby on Rails.\n- MarkDown + code highlighting\n- Articles organized by tags\n- User login system\n- Internal messaging\n- discussion forum\n- comments in the articles\n- favorites button\n- article search bar\n- filtered articles by tag\n- select theme switch button (dark theme)\n- select language (ES/EN)",
+          "URL": "https://github.com/BraisonCrece/BlogOnRails",
+          "image": {
+            "alt": "Captura desde 2022-10-26 11-41-46.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/d152c7fb-a20f-47e2-8704-5c24c8ded5fd_captura-desde-2022-1.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
@@ -166,16 +169,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Galician",
-        "level": "Native or bilingual proficiency"
+        "name": "Galician"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -413,7 +413,6 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
