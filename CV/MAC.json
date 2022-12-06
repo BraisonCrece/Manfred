@@ -8,6 +8,7 @@
     "profile": {
       "name": "Brais",
       "surnames": "Fernández Díaz",
+      "title": "Web Developer Student - / Ruby on Rails / - / postgreSQL / - / HMTL5 / - / CSS3 / - / Bootstrap / - / TailWind / - / JavaScript / - / PHP / - / Docker / - / Linux /",
       "description": "I love web development and programming! ❤ \nThe more I know, the more I want to know. At the same time I am able to enjoy the journey immensely. I love what I do\n\nWhen faced with unforeseen events, I like to focus on finding solutions and my lifestyle is based on humility, curiosity and continuous learning.\n\nI am looking forward to finding a company that will give me the opportunity to show my potential and with which I can grow together!\n\nI am looking forward to finding a company that will give me the opportunity to show my potential and with which I can grow together!\n\nAmo el desarrollo web y la programación! Cuanto más se, más quiero saber. Cada día aprendo más mientras disfruto enormemente del camino. \nSoy optimista ,empatico, y feliz. \nAnte los imprevistos, me gusta centrarme en la búsqueda de soluciones y mi estilo de vida se basa en la humildad, la curiosidad y el aprendizaje continuo.\n\nEstoy deseando encontrar a una empresa que me de la oportunidad de mostrar mi potencial y con la cual poder crecer acompañados!",
       "avatar": {
         "alt": "Group 1.png",
@@ -43,6 +44,157 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Full-time "
+        },
+        "roles": [
+          {
+            "name": "RESTAURANTE SALA GRADIN SL",
+            "startDate": "2022-12-06",
+            "challenges": [
+              {
+                "description": "Repartidor - Catering"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sep 2012 - Aug 2014 "
+        },
+        "roles": [
+          {
+            "name": "Repartidor - Catering",
+            "startDate": "2022-12-06",
+            "challenges": [
+              {
+                "description": "Repartidor - Catering"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jan 2008 - Oct 2012 "
+        },
+        "roles": [
+          {
+            "name": "Camarero de restaurante y eventos",
+            "startDate": "2022-12-06",
+            "challenges": [
+              {
+                "description": "Camarero de restaurante y eventos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FASTER EMPLEO ETT SA "
+        },
+        "roles": [
+          {
+            "name": "Actor",
+            "startDate": "2015-06-01",
+            "challenges": [
+              {
+                "description": "He participado como actor figurante en la película de producción americana \"El apostol Santiago, hijo del trueno\". \n\nHa sido una experiencia increíble y muy divertida."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Distribuciones Diaz SA "
+        },
+        "roles": [
+          {
+            "name": "Comercial técnico",
+            "startDate": "2018-01-01",
+            "finishDate": "2019-10-31",
+            "challenges": [
+              {
+                "description": "Durante este periodo he podido gestionar el servicio de comercial de ventas de productos industriales de limpieza. Habiendo satisfecho con éxito las siguientes exigencias:\n- Gestión de inventario\n- Gestión de pedidos\n- Atención al cliente\n- Visitas a clientes\n- Apertura de mercado (visitas a puerta fría)\n- Reparto de mercancía\n- Elaboración de catálogos\n- Elaboración de campañas de publicidad en RRSS\n\nEste puesto ha conseguido sacarme de mi zona de confort, pues aún habiendo tenido mucha experiencia de cara al público me ha forzado a profesionalizarme y formarme en un sector totalmente desconocido por mi hasta ese entonces.\nHe tenido que apender tanto sobre productos químicos de limpieza, como sobre ventas y neuromárketing.\n\nHe tenido unos buenos resultados en cuanto a apertura de mercado, ganando nuevos clientes, y a la fidelización de estos. Basando toda mi estrategia comercial en la búsqueda de la confianza y la honestidad. \n\nMis aptitudes y habilidades sociales se vieron incrementadas notablemente, a la par que mi crecimiento personal y profesional."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "gastrobar Nicol's "
+        },
+        "roles": [
+          {
+            "name": "Camarero",
+            "startDate": "2016-11-01",
+            "finishDate": "2018-06-30",
+            "challenges": [
+              {
+                "description": "Durante este periodo he podido desempeñar el puesto de camarero. Habiendo satisfecho con éxito las siguientes exigencias:\n- Gestión de inventario\n- Gestión de pedidos\n- Atención al cliente\n- Servicio de cafés y alimentos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Restaurante Marisquería A Saiña "
+        },
+        "roles": [
+          {
+            "name": "Camarero de banquete",
+            "startDate": "2016-06-01",
+            "finishDate": "2016-10-31",
+            "challenges": [
+              {
+                "description": "Durante este periodo he desempeñado la función de camarero de comedor y sala. Habiendo satisfecho con éxito las siguientes exigencias:\n- Atención al cliente\n- Servicio de cafés y alimentos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IES Manuel García Barros "
+        },
+        "roles": [
+          {
+            "name": "Jefe de cafetería",
+            "startDate": "2015-09-01",
+            "finishDate": "2016-08-31",
+            "challenges": [
+              {
+                "description": "Durante este periodo he podido gestionar el servicio de cafetería del instituto como profesional autónomo. Habiendo satisfecho con éxito las siguientes exigencias:\n- Gestión de inventario\n- Gestión de pedidos\n- Atención al cliente\n- Servicio de cafés y alimentos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Camarero Extra "
+        },
+        "roles": [
+          {
+            "name": "camarero de eventos",
+            "startDate": "2012-01-01",
+            "finishDate": "2022-11-30",
+            "challenges": [
+              {
+                "description": "Durante todos estos años he trabajado ininterrumpidamente como camarero de extra, cubriendo todo tipo de eventos, normalmente los fines de semana.\n- Bodas\n- Comuniones\n- Bautizos\n- Todo tipo de eventos\n- Servicio de restaurante a la carta\n- Servicio de cafetería\n\nA pesar de ser un trabajo muy duro y que requiere habilidades sociales y mucha paciencia y empatía, es un trabajo que me hace crecer."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
@@ -171,17 +323,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English"
-      },
-      {
-        "name": "Galician"
-      },
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -539,9 +680,6 @@
           "name": "YAML",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Backend Developer"
       ]
     }
   }
