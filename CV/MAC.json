@@ -695,6 +695,9 @@
           "name": "YAML",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Full-stack Developer"
       ]
     },
     "status": "openToOffers"
