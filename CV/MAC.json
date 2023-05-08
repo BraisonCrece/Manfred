@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Brais",
       "surnames": "Fernández Díaz",
       "title": "Web Developer Student - / Ruby on Rails / - / postgreSQL / - / HMTL5 / - / CSS3 / - / Bootstrap / - / TailWind / - / JavaScript / - / PHP / - / Docker / - / Linux /",
-      "description": "",
+      "description": "I love web development and programming! ❤ \nThe more I know, the more I want to know. At the same time I am able to enjoy the journey immensely. I love what I do\n\nWhen faced with unforeseen events, I like to focus on finding solutions and my lifestyle is based on humility, curiosity and continuous learning.\n\nI am looking forward to finding a company that will give me the opportunity to show my potential and with which I can grow together!\n\nI am looking forward to finding a company that will give me the opportunity to show my potential and with which I can grow together!\n\nAmo el desarrollo web y la programación! Cuanto más se, más quiero saber. Cada día aprendo más mientras disfruto enormemente del camino. \nSoy optimista ,empatico, y feliz. \nAnte los imprevistos, me gusta centrarme en la búsqueda de soluciones y mi estilo de vida se basa en la humildad, la curiosidad y el aprendizaje continuo.\n\nEstoy deseando encontrar a una empresa que me de la oportunidad de mostrar mi potencial y con la cual poder crecer acompañados!",
       "avatar": {
         "alt": "Group 1.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/21/2e337672-c90c-4071-b833-a9cdde6b954b_group-1.png"
@@ -48,6 +48,22 @@
     "jobs": [
       {
         "organization": {
+          "name": "Jan 2008 - Oct 2012 "
+        },
+        "roles": [
+          {
+            "name": "Camarero de restaurante y eventos",
+            "startDate": "2022-12-06",
+            "challenges": [
+              {
+                "description": "Camarero de restaurante y eventos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Full-time "
         },
         "roles": [
@@ -73,38 +89,6 @@
             "challenges": [
               {
                 "description": "Repartidor - Catering"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Jan 2008 - Oct 2012 "
-        },
-        "roles": [
-          {
-            "name": "Camarero de restaurante y eventos",
-            "startDate": "2022-12-06",
-            "challenges": [
-              {
-                "description": "Camarero de restaurante y eventos"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "FASTER EMPLEO ETT SA "
-        },
-        "roles": [
-          {
-            "name": "Actor",
-            "startDate": "2015-06-01",
-            "challenges": [
-              {
-                "description": "He participado como actor figurante en la película de producción americana \"El apostol Santiago, hijo del trueno\". \n\nHa sido una experiencia increíble y muy divertida."
               }
             ]
           }
@@ -180,6 +164,22 @@
       },
       {
         "organization": {
+          "name": "FASTER EMPLEO ETT SA "
+        },
+        "roles": [
+          {
+            "name": "Actor",
+            "startDate": "2015-06-01",
+            "challenges": [
+              {
+                "description": "He participado como actor figurante en la película de producción americana \"El apostol Santiago, hijo del trueno\". \n\nHa sido una experiencia increíble y muy divertida."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Camarero Extra "
         },
         "roles": [
@@ -197,6 +197,42 @@
       }
     ],
     "projects": [
+      {
+        "details": {
+          "name": "BlogOnRails",
+          "description": "As I go deeper into Ruby on Rails I discover many sections that were not easy for me to learn at the beginning. Therefore, I would like to share those \"discoveries\" with the intention of helping anyone else who is in the process of learning Rails.\n\nThis application is going to be a blog about Ruby on Rails and its ecosystem.\n\nHaving to write articles, I will have to do a lot of research on the topic beforehand.\n\nconstruction_worker It will be managed 100% by me, and the informative articles will be written to be easily understood (as much as possible).\n\nMy main goal is to make the platform a win/win (users access to interesting information / I learn and practice).\n\nIt will consist of the following sections:\n- Informative articles about using Ruby on Rails.\n- MarkDown + code highlighting\n- Articles organized by tags\n- User login system\n- Internal messaging\n- discussion forum\n- comments in the articles\n- favorites button\n- article search bar\n- filtered articles by tag\n- select theme switch button (dark theme)\n- select language (ES/EN)",
+          "URL": "https://github.com/BraisonCrece/BlogOnRails",
+          "image": {
+            "alt": "Captura desde 2022-10-26 11-41-46.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/d152c7fb-a20f-47e2-8704-5c24c8ded5fd_captura-desde-2022-1.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "details": {
           "name": "Scheduled Tweets",
@@ -223,42 +259,6 @@
               },
               {
                 "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby on Rails",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "BlogOnRails",
-          "description": "As I go deeper into Ruby on Rails I discover many sections that were not easy for me to learn at the beginning. Therefore, I would like to share those \"discoveries\" with the intention of helping anyone else who is in the process of learning Rails.\n\nThis application is going to be a blog about Ruby on Rails and its ecosystem.\n\nHaving to write articles, I will have to do a lot of research on the topic beforehand.\n\nconstruction_worker It will be managed 100% by me, and the informative articles will be written to be easily understood (as much as possible).\n\nMy main goal is to make the platform a win/win (users access to interesting information / I learn and practice).\n\nIt will consist of the following sections:\n- Informative articles about using Ruby on Rails.\n- MarkDown + code highlighting\n- Articles organized by tags\n- User login system\n- Internal messaging\n- discussion forum\n- comments in the articles\n- favorites button\n- article search bar\n- filtered articles by tag\n- select theme switch button (dark theme)\n- select language (ES/EN)",
-          "URL": "https://github.com/BraisonCrece/BlogOnRails",
-          "image": {
-            "alt": "Captura desde 2022-10-26 11-41-46.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/d152c7fb-a20f-47e2-8704-5c24c8ded5fd_captura-desde-2022-1.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-10-01",
-            "competences": [
-              {
-                "name": "JavaScript",
                 "type": "technology"
               },
               {
@@ -326,16 +326,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
-      },
-      {
         "name": "Galician",
         "level": "Native or bilingual proficiency"
       },
       {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
         "name": "Spanish",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Portuguese",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
@@ -450,111 +454,6 @@
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Ruby On Rails - Active Record Certification",
-        "startDate": "2022-10-01",
-        "institution": {
-          "name": "CodigoFacilito",
-          "description": "Ruby On Rails - Active Record Certification course 7h 37mins",
-          "URL": "https://codigofacilito.com/cursos/rails-activerecord",
-          "image": {
-            "alt": "Captura desde 2022-10-27 13-33-46.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/3cc4cea5-24f8-409f-802f-e398a8374540_captura-desde-2022-1.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Ruby on Rails",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "SQL Cetrification",
-        "startDate": "2022-09-01",
-        "institution": {
-          "name": "OpenBootcamp",
-          "description": "SQL course certification - 13h",
-          "URL": "https://campus.open-bootcamp.com/cursos/53",
-          "image": {
-            "alt": "Captura desde 2022-10-27 13-14-11.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/4868e846-6fb3-4fae-bb80-ff328f06d5b7_captura-desde-2022-1.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "SQL",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Ruby Certification",
-        "startDate": "2022-08-01",
-        "institution": {
-          "name": "CodigoFacilito",
-          "description": "Ruby Course Certification - 5h",
-          "URL": "https://codigofacilito.com/cursos/ruby-2",
-          "image": {
-            "alt": "Captura desde 2022-10-27 13-16-43.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/581ec766-1790-4359-9cf3-99782fd43a4c_captura-desde-2022-1.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Ruby",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Ruby On Rails Certification",
-        "startDate": "2022-08-01",
-        "institution": {
-          "name": "CodigoFacilito",
-          "description": "Ruby On Rails professional course Certification - 10h 52mins",
-          "URL": "https://codigofacilito.com/cursos/rails-profesional",
-          "image": {
-            "alt": "Captura desde 2022-10-27 13-18-57.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/57201b48-3625-4df1-b96a-5aa40fa6a7eb_captura-desde-2022-1.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Ruby on Rails",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Java professional Certification",
-        "startDate": "2022-05-01",
-        "institution": {
-          "name": "CodigoFacilito",
-          "description": "Java Professional Course Certification - 6h",
-          "URL": "https://codigofacilito.com/cursos/java-profesional",
-          "image": {
-            "alt": "Captura desde 2022-10-27 13-22-16.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/3fd8dfd3-3dfa-4a9a-ae41-2702203a4d56_captura-desde-2022-1.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ciclo Superior de Desarrollo de aplicaciones Web",
@@ -629,6 +528,111 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Java professional Certification",
+        "startDate": "2022-05-01",
+        "institution": {
+          "name": "CodigoFacilito",
+          "description": "Java Professional Course Certification - 6h",
+          "URL": "https://codigofacilito.com/cursos/java-profesional",
+          "image": {
+            "alt": "Captura desde 2022-10-27 13-22-16.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/3fd8dfd3-3dfa-4a9a-ae41-2702203a4d56_captura-desde-2022-1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Ruby Certification",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "CodigoFacilito",
+          "description": "Ruby Course Certification - 5h",
+          "URL": "https://codigofacilito.com/cursos/ruby-2",
+          "image": {
+            "alt": "Captura desde 2022-10-27 13-16-43.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/581ec766-1790-4359-9cf3-99782fd43a4c_captura-desde-2022-1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Ruby",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Ruby On Rails - Active Record Certification",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "CodigoFacilito",
+          "description": "Ruby On Rails - Active Record Certification course 7h 37mins",
+          "URL": "https://codigofacilito.com/cursos/rails-activerecord",
+          "image": {
+            "alt": "Captura desde 2022-10-27 13-33-46.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/3cc4cea5-24f8-409f-802f-e398a8374540_captura-desde-2022-1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Ruby on Rails",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Ruby On Rails Certification",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "CodigoFacilito",
+          "description": "Ruby On Rails professional course Certification - 10h 52mins",
+          "URL": "https://codigofacilito.com/cursos/rails-profesional",
+          "image": {
+            "alt": "Captura desde 2022-10-27 13-18-57.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/57201b48-3625-4df1-b96a-5aa40fa6a7eb_captura-desde-2022-1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Ruby on Rails",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "SQL Cetrification",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "OpenBootcamp",
+          "description": "SQL course certification - 13h",
+          "URL": "https://campus.open-bootcamp.com/cursos/53",
+          "image": {
+            "alt": "Captura desde 2022-10-27 13-14-11.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/4868e846-6fb3-4fae-bb80-ff328f06d5b7_captura-desde-2022-1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Técnico instalador de Equipos Electrónicos de consumo",
@@ -646,6 +650,10 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/brais-fernandez-diaz/"
+        },
+        {
+          "type": "other",
+          "URL": "https://github.com/BraisonCrece"
         }
       ]
     },
