@@ -11,24 +11,14 @@
       "title": "Web Developer Student - / Ruby on Rails / - / postgreSQL / - / HMTL5 / - / CSS3 / - / Bootstrap / - / TailWind / - / JavaScript / - / PHP / - / Docker / - / Linux /",
       "description": "I love web development and programming! ❤ \nThe more I know, the more I want to know. At the same time I am able to enjoy the journey immensely. I love what I do\n\nWhen faced with unforeseen events, I like to focus on finding solutions and my lifestyle is based on humility, curiosity and continuous learning.\n\nI am looking forward to finding a company that will give me the opportunity to show my potential and with which I can grow together!\n\nI am looking forward to finding a company that will give me the opportunity to show my potential and with which I can grow together!\n\nAmo el desarrollo web y la programación! Cuanto más se, más quiero saber. Cada día aprendo más mientras disfruto enormemente del camino. \nSoy optimista ,empatico, y feliz. \nAnte los imprevistos, me gusta centrarme en la búsqueda de soluciones y mi estilo de vida se basa en la humildad, la curiosidad y el aprendizaje continuo.\n\nEstoy deseando encontrar a una empresa que me de la oportunidad de mostrar mi potencial y con la cual poder crecer acompañados!",
       "avatar": {
-        "alt": "Group 1.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/21/2e337672-c90c-4071-b833-a9cdde6b954b_group-1.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/21/2e337672-c90c-4071-b833-a9cdde6b954b_group-1.png",
+        "alt": "Group 1.png"
       },
       "location": {
-        "country": "España",
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
+        "country": "España"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/BraisonCrece"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/brais-fernandez-diaz/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I have decided to specialize in Ruby on Rails ",
@@ -203,8 +193,8 @@
           "description": "Application for convenient and immediate management of the online menu via QR for businesses in the restaurant sector. Client side adapted for use on mobile devices, mobile control panel and desktop.\n\nBenefits:\n\n- Control of available products on the online menu from the mobile device itself, with 1 click.\n- Automatic creation of product descriptions using Artificial Intelligence.\n- App instalation directly by click on the agile-qr logo (only on suported devices)\n- Translation of products into the selected language with 1 click (In progress, not yet implemented).\n- Multi-language (In progress, not yet implemented).\n- Instant product updates without the need to refresh the client's page (using websockets, coming implementation).\n- Menu customization. Custom logo and more.\n\nAccess credentials to the control panel:\nUser:\nexample@agileqr.dev\n\nPassword:\nabc123.",
           "URL": "https://qr-agile-manager.fly.dev/users/sign_in",
           "image": {
-            "alt": "Logo_example-71027f19f3d513ab801bf20c7d366e390efcdfab899bfca8a7612f2da1d13166.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/08/45b3a941-da05-478c-a034-299eee0509bf_logo_example-71027f1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/08/45b3a941-da05-478c-a034-299eee0509bf_logo_example-71027f1.png",
+            "alt": "Logo_example-71027f19f3d513ab801bf20c7d366e390efcdfab899bfca8a7612f2da1d13166.png"
           }
         },
         "type": "sideProject",
@@ -243,8 +233,8 @@
           "description": "As I go deeper into Ruby on Rails I discover many sections that were not easy for me to learn at the beginning. Therefore, I would like to share those \"discoveries\" with the intention of helping anyone else who is in the process of learning Rails.\n\nThis application is going to be a blog about Ruby on Rails and its ecosystem.\n\nHaving to write articles, I will have to do a lot of research on the topic beforehand.\n\nconstruction_worker It will be managed 100% by me, and the informative articles will be written to be easily understood (as much as possible).\n\nMy main goal is to make the platform a win/win (users access to interesting information / I learn and practice).\n\nIt will consist of the following sections:\n- Informative articles about using Ruby on Rails.\n- MarkDown + code highlighting\n- Articles organized by tags\n- User login system\n- Internal messaging\n- discussion forum\n- comments in the articles\n- favorites button\n- article search bar\n- filtered articles by tag\n- select theme switch button (dark theme)\n- select language (ES/EN)",
           "URL": "https://github.com/BraisonCrece/BlogOnRails",
           "image": {
-            "alt": "Captura desde 2022-10-26 11-41-46.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/d152c7fb-a20f-47e2-8704-5c24c8ded5fd_captura-desde-2022-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/d152c7fb-a20f-47e2-8704-5c24c8ded5fd_captura-desde-2022-1.png",
+            "alt": "Captura desde 2022-10-26 11-41-46.png"
           }
         },
         "type": "openSource",
@@ -279,8 +269,8 @@
           "description": "PRACTICE PROJECT - SHEDULED TWEETS\nThe application allows the user to have multiple Twitter accounts and schedule tweets (Who would have thought!) which will be automatically tweeted at the set time.\n\nOn this project I have learned:\n\n- OmniAuth:\n     - config environments \n     - setting API keys \n- Rails Credentials\n    - Using rails credentials:edit to store the Twitter API credentials to development & \n      production \n- Backgroun Jobs\n    - Creating a TweetJob \n    - TweetJob.preform_later(@tweet) \n- Sidekiq and Redis\n    - Installing and setting up Redis-server\n    - Configuring active_job_queue_adapter = :sidekiq \n- Bootstrap \n- Session Cookies \n- PasswordMailer < ApplicationMailer\n    - Config environment to be able to reset passwords by email \n- Deploy application \n    - Scheduled Tweets \n\n\nIt has been a great learning experience. Let's keep going!\n",
           "URL": "https://tweets-programados.fly.dev/",
           "image": {
-            "alt": "Captura desde 2022-10-13 20-03-52.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/d7b41873-86a6-4712-9c96-619bbe6928f4_captura-desde-2022-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/d7b41873-86a6-4712-9c96-619bbe6928f4_captura-desde-2022-1.png",
+            "alt": "Captura desde 2022-10-13 20-03-52.png"
           }
         },
         "type": "openSource",
@@ -323,8 +313,8 @@
           "description": "Being able to see a professional web developer at work (without video cuts) is a very enriching process. I am following TypeFast project on Youtube, taking notes on everything that is new to me, and learning about the actual flow of development:\n\nHave a problem --> Identify the source of the problem --> Know how to find information about the problem --> process the problem --> solve the problem.\n\n(I'm learning A LOT, and i'm pretty happy!)",
           "URL": "https://github.com/BraisonCrece/Airbnb-clone",
           "image": {
-            "alt": "Captura desde 2022-10-13 17-59-52.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/d5540a9b-3f1c-4448-a948-09a15adccbe9_captura-desde-2022-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/d5540a9b-3f1c-4448-a948-09a15adccbe9_captura-desde-2022-1.png",
+            "alt": "Captura desde 2022-10-13 17-59-52.png"
           }
         },
         "type": "openSource",
@@ -366,86 +356,38 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Galician",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Portuguese",
+        "name": "GL",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "PT",
         "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Bash",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ruby",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ruby on Rails",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
+          "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ubuntu",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bash",
           "type": "technology"
         }
       },
@@ -469,13 +411,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "YAML",
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -487,7 +423,61 @@
       },
       {
         "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "YAML",
           "type": "technology"
         }
       }
@@ -503,8 +493,8 @@
           "description": "Ciclo Superior con una duración de dos años.\nCursando actualmente, con muy buenas notas el primer año",
           "URL": "https://www.iessanclemente.net",
           "image": {
-            "alt": "notas-daw-1o.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/12/d86ea895-eb54-45b4-bf84-094595cff631_notas-daw-1o.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/12/d86ea895-eb54-45b4-bf84-094595cff631_notas-daw-1o.jpg",
+            "alt": "notas-daw-1o.jpg"
           }
         },
         "linkedCompetences": [
@@ -556,8 +546,8 @@
           "description": "Java Certification course - 15h 10mins",
           "URL": "https://campus.open-bootcamp.com/cursos/5",
           "image": {
-            "alt": "Captura desde 2022-10-27 13-12-56.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/d6aaceab-81b8-4cc6-b4c4-34b679454416_captura-desde-2022-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/d6aaceab-81b8-4cc6-b4c4-34b679454416_captura-desde-2022-1.png",
+            "alt": "Captura desde 2022-10-27 13-12-56.png"
           }
         },
         "linkedCompetences": [
@@ -577,8 +567,8 @@
           "description": "Java Professional Course Certification - 6h",
           "URL": "https://codigofacilito.com/cursos/java-profesional",
           "image": {
-            "alt": "Captura desde 2022-10-27 13-22-16.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/3fd8dfd3-3dfa-4a9a-ae41-2702203a4d56_captura-desde-2022-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/3fd8dfd3-3dfa-4a9a-ae41-2702203a4d56_captura-desde-2022-1.png",
+            "alt": "Captura desde 2022-10-27 13-22-16.png"
           }
         },
         "linkedCompetences": [
@@ -598,8 +588,8 @@
           "description": "Ruby Course Certification - 5h",
           "URL": "https://codigofacilito.com/cursos/ruby-2",
           "image": {
-            "alt": "Captura desde 2022-10-27 13-16-43.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/581ec766-1790-4359-9cf3-99782fd43a4c_captura-desde-2022-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/581ec766-1790-4359-9cf3-99782fd43a4c_captura-desde-2022-1.png",
+            "alt": "Captura desde 2022-10-27 13-16-43.png"
           }
         },
         "linkedCompetences": [
@@ -619,8 +609,8 @@
           "description": "Ruby On Rails - Active Record Certification course 7h 37mins",
           "URL": "https://codigofacilito.com/cursos/rails-activerecord",
           "image": {
-            "alt": "Captura desde 2022-10-27 13-33-46.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/3cc4cea5-24f8-409f-802f-e398a8374540_captura-desde-2022-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/3cc4cea5-24f8-409f-802f-e398a8374540_captura-desde-2022-1.png",
+            "alt": "Captura desde 2022-10-27 13-33-46.png"
           }
         },
         "linkedCompetences": [
@@ -640,8 +630,8 @@
           "description": "Ruby On Rails professional course Certification - 10h 52mins",
           "URL": "https://codigofacilito.com/cursos/rails-profesional",
           "image": {
-            "alt": "Captura desde 2022-10-27 13-18-57.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/57201b48-3625-4df1-b96a-5aa40fa6a7eb_captura-desde-2022-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/57201b48-3625-4df1-b96a-5aa40fa6a7eb_captura-desde-2022-1.png",
+            "alt": "Captura desde 2022-10-27 13-18-57.png"
           }
         },
         "linkedCompetences": [
@@ -661,8 +651,8 @@
           "description": "SQL course certification - 13h",
           "URL": "https://campus.open-bootcamp.com/cursos/53",
           "image": {
-            "alt": "Captura desde 2022-10-27 13-14-11.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/4868e846-6fb3-4fae-bb80-ff328f06d5b7_captura-desde-2022-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/4868e846-6fb3-4fae-bb80-ff328f06d5b7_captura-desde-2022-1.png",
+            "alt": "Captura desde 2022-10-27 13-14-11.png"
           }
         },
         "linkedCompetences": [
@@ -682,18 +672,47 @@
           "description": "Electricidad y Electrónica de electrodomésticos domésticos.\nGrado medio de 2 años de duración."
         }
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/brais-fernandez-diaz/"
+          "URL": "https://www.linkedin.com/in/brais-fernandez-diaz/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://github.com/BraisonCrece"
+          "URL": "https://github.com/BraisonCrece",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "braisoncrece@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "687052011",
+          "countryCode": "+34"
         }
       ]
     },
@@ -749,5 +768,23 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "My ideal job is one in which I am trusted to be able to deploy my full potential, and at the same time have an interest in my personal and professional development. Never stop learning and evolving, so that we can grow together! ",
+    "goodPractices": "- English:\nI am learning TDD (Test Driven Development), and I think it is a very solid methodology\nAt the same time, I care about writing good code that is readable and applies SOLID and DRY principles. \nI would like to add that I also think it is important to apply conventions established in the official (or unofficial) style guides of each programming language.\n\nI like a job well done.\n\n- Español:\nEstoy aprendiendo TDD (Test Driven Development), y creo que es una metodología muy sólida.\nAl mismo tiempo, me preocupo por escribir buen código, que sea legible y que aplique los principios SOLID y DRY. \nMe gustaría añadir que también creo que es importante aplicar las convenciones establecidas en las guías de estilo oficiales (o no oficiales) de cada lenguaje de programación.\n\nMe gusta el trabajo bien hecho. ",
+    "projects": [
+      {
+        "name": "Agile QR restaurant card manager"
+      },
+      {
+        "name": "Airbnb clone"
+      },
+      {
+        "name": "BlogOnRails"
+      },
+      {
+        "name": "Scheduled Tweets"
+      }
+    ]
   }
 }
