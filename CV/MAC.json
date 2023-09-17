@@ -236,8 +236,8 @@
     "projects": [
       {
         "details": {
-          "name": "Agile QR restaurant card manager",
-          "description": "(Application in production, the interesting part is in the admin control pannel, but you can take a look on the client-side part of the application)\n\nApplication for convenient and immediate management of the online menu via QR for businesses in the restaurant sector. Client side adapted for use on mobile devices, mobile control panel and desktop.\n\nBenefits:\n\n- Control of available products on the online menu from the mobile device itself, with 1 click.\n- Automatic creation of product descriptions using Artificial Intelligence.\n- App instalation directly by click on the agile-qr logo (only on suported devices)\n- Translation of products into the selected language with 1 click (In progress, not yet implemented).\n- Multi-language (In progress, not yet implemented).\n- Instant product updates without the need to refresh the client's page (using websockets, coming implementation).\n- Menu customization. Custom logo and more.\n\nAccess credentials to the control panel:\nUser:\nexample@agileqr.dev\n\nPassword:\nabc123.",
+          "name": "Agile QR restaurant menu manager",
+          "description": "(Application in production, the interesting part is in the admin control pannel, but you can take a look on the client-side part of the application)\n\n[control pannel example](https://youtu.be/VAVmZtTsJrU)\n\nApplication for convenient and immediate management of the online menu via QR for businesses in the restaurant sector. Client side adapted for use on mobile devices, mobile control panel and desktop.\n\nBenefits:\n\n- Control of available products on the online menu from the mobile device itself, with 1 click.\n- Automatic creation of product descriptions using Artificial Intelligence.\n- App instalation directly by click on the agile-qr logo (only on suported devices)\n- Translation of products into the selected language with 1 click (In progress, not yet implemented).\n- Multi-language (In progress, not yet implemented).\n- Instant product updates without the need to refresh the client's page (using websockets, coming implementation).\n- Menu customization. Custom logo and more.\n\n",
           "URL": "https://cartanavegacion.fly.dev",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/08/45b3a941-da05-478c-a034-299eee0509bf_logo_example-71027f1.png",
@@ -861,7 +861,7 @@
     "goodPractices": "- TDD\n- DRY (don´t repeat yourself)\n- SOLID\n- Conventional Commits\n",
     "projects": [
       {
-        "name": "Agile QR restaurant card manager"
+        "name": "Agile QR restaurant menu manager"
       },
       {
         "name": "Airbnb clone"
