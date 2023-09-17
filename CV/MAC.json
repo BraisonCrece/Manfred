@@ -238,6 +238,7 @@
         "details": {
           "name": "📗OhMyBlog!",
           "description": "# OhMyBlog! 🚀\n\nA cutting-edge forum built for technophiles and coders to post, discuss, and delve into articles about technology and programming. Crafted with love using Rails 7, Stimulus JS, PostgreSQL, and styled with TailwindCSS. 🌟\n\n",
+          "URL": "https://github.com/BraisonCrece/oh_my_blog/tree/main",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/17/32dad19a-5e2f-426d-952d-f62138d2fe05_captura-de-pantalla-.png",
             "alt": "Captura de pantalla 2023-09-17 200457.png"
