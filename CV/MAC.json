@@ -238,7 +238,7 @@
         "details": {
           "name": "Agile QR restaurant card manager",
           "description": "Application for convenient and immediate management of the online menu via QR for businesses in the restaurant sector. Client side adapted for use on mobile devices, mobile control panel and desktop.\n\nBenefits:\n\n- Control of available products on the online menu from the mobile device itself, with 1 click.\n- Automatic creation of product descriptions using Artificial Intelligence.\n- App instalation directly by click on the agile-qr logo (only on suported devices)\n- Translation of products into the selected language with 1 click (In progress, not yet implemented).\n- Multi-language (In progress, not yet implemented).\n- Instant product updates without the need to refresh the client's page (using websockets, coming implementation).\n- Menu customization. Custom logo and more.\n\nAccess credentials to the control panel:\nUser:\nexample@agileqr.dev\n\nPassword:\nabc123.",
-          "URL": "https://qr-agile-manager.fly.dev/users/sign_in",
+          "URL": "https://cartanavegacion.fly.dev",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/08/45b3a941-da05-478c-a034-299eee0509bf_logo_example-71027f1.png",
             "alt": "Logo_example-71027f19f3d513ab801bf20c7d366e390efcdfab899bfca8a7612f2da1d13166.png"
