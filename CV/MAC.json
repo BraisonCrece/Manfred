@@ -236,6 +236,45 @@
     "projects": [
       {
         "details": {
+          "name": "📗OhMyBlog!",
+          "description": "# OhMyBlog! 🚀\n\nA cutting-edge forum built for technophiles and coders to post, discuss, and delve into articles about technology and programming. Crafted with love using Rails 7, Stimulus JS, PostgreSQL, and styled with TailwindCSS. 🌟\n\n",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/17/32dad19a-5e2f-426d-952d-f62138d2fe05_captura-de-pantalla-.png",
+            "alt": "Captura de pantalla 2023-09-17 200457.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-09-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Agile QR restaurant menu manager",
           "description": "(Application in production, the interesting part is in the admin control pannel, but you can take a look on the client-side part of the application)\n\n[control pannel example](https://youtu.be/VAVmZtTsJrU)\n\nApplication for convenient and immediate management of the online menu via QR for businesses in the restaurant sector. Client side adapted for use on mobile devices, mobile control panel and desktop.\n\nBenefits:\n\n- Control of available products on the online menu from the mobile device itself, with 1 click.\n- Automatic creation of product descriptions using Artificial Intelligence.\n- App instalation directly by click on the agile-qr logo (only on suported devices)\n- Translation of products into the selected language with 1 click (In progress, not yet implemented).\n- Multi-language (In progress, not yet implemented).\n- Instant product updates without the need to refresh the client's page (using websockets, coming implementation).\n- Menu customization. Custom logo and more.\n\n",
           "URL": "https://cartanavegacion.fly.dev",
@@ -871,6 +910,9 @@
       },
       {
         "name": "Scheduled Tweets"
+      },
+      {
+        "name": "📗OhMyBlog!"
       }
     ]
   }
