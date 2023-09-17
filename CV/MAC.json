@@ -38,6 +38,53 @@
     "jobs": [
       {
         "organization": {
+          "name": "Whitebox GmbH",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/17/cb78166a-cea0-4b6a-9246-285473b35ff8_whitebox.png",
+            "alt": "whitebox.png"
+          },
+          "URL": "https://www.whitebox.eu/ueber-uns/unternehmen"
+        },
+        "roles": [
+          {
+            "name": "Backend developer",
+            "startDate": "2023-06-01",
+            "challenges": [
+              {
+                "description": "Backend developer working in a German fintech. Using all kind of modern technologies like distributed systems, Graphql, event sourcing, CQRS, RabbitMQ, etc."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Event Store",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby on Rails",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Jan 2008 - Oct 2012 "
         },
         "roles": [
