@@ -858,7 +858,7 @@
       }
     ],
     "desiredJobDescription": "My ideal job is one in which I am trusted to be able to deploy my full potential, and at the same time have an interest in my personal and professional development. Never stop learning and evolving, so that we can grow together! ",
-    "goodPractices": "- English:\nI am learning TDD (Test Driven Development), and I think it is a very solid methodology\nAt the same time, I care about writing good code that is readable and applies SOLID and DRY principles. \nI would like to add that I also think it is important to apply conventions established in the official (or unofficial) style guides of each programming language.\n\nI like a job well done.\n\n- Español:\nEstoy aprendiendo TDD (Test Driven Development), y creo que es una metodología muy sólida.\nAl mismo tiempo, me preocupo por escribir buen código, que sea legible y que aplique los principios SOLID y DRY. \nMe gustaría añadir que también creo que es importante aplicar las convenciones establecidas en las guías de estilo oficiales (o no oficiales) de cada lenguaje de programación.\n\nMe gusta el trabajo bien hecho. ",
+    "goodPractices": "- TDD\n- DRY (don´t repeat yourself)\n- SOLID\n- Conventional Commits\n",
     "projects": [
       {
         "name": "Agile QR restaurant card manager"
