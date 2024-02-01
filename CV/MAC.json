@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -31,6 +31,16 @@
       {
         "topic": "I love music that make me feel something, not 'reguetón' sorry",
         "fact": "Some bands or songs that I love:\n- Plantasia, by Mort Garson (OMG)\n- Pink Floyd\n- Yma Sumac\n- Jex Opolis\n- Silvana Estrada\n- Frank Zappa"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/brais-fernandez-diaz/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/BraisonCrece"
       }
     ]
   },
@@ -444,18 +454,22 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "GL",
+        "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "PT",
+        "fullName": "Portugués",
         "level": "Professional working proficiency"
       }
     ],
@@ -590,18 +604,19 @@
     "studies": [
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Ciclo Superior de Desarrollo de aplicaciones Web",
         "startDate": "2021-09-01",
         "institution": {
           "name": "IES San Clemente",
-          "description": "Ciclo Superior con una duración de dos años.\nCursando actualmente, con muy buenas notas el primer año",
+          "description": "Ciclo Superior con una duración de dos años.\nPrácticas erasmus en fintech Alemana durante 2 meses.\nUn 9 de media",
           "URL": "https://www.iessanclemente.net",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/12/d86ea895-eb54-45b4-bf84-094595cff631_notas-daw-1o.jpg",
             "alt": "notas-daw-1o.jpg"
           }
         },
+        "finishDate": "2023-05-01",
         "linkedCompetences": [
           {
             "name": "CSS",
@@ -813,12 +828,6 @@
       ],
       "contactMails": [
         "braisoncrece@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "687052011",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
