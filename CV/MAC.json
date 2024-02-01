@@ -886,11 +886,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Docker",
+        "name": "GraphQL",
         "type": "technology"
       },
       {
-        "name": "GraphQL",
+        "name": "PostgreSQL",
         "type": "technology"
       },
       {
