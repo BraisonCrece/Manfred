@@ -524,13 +524,13 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "JSON",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JSON",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -627,11 +627,11 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "JSON",
             "type": "technology"
           },
           {
-            "name": "JSON",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -672,7 +672,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           }
         ]
@@ -693,7 +693,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           }
         ]
@@ -828,6 +828,12 @@
       ],
       "contactMails": [
         "braisoncrece@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "687052011",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
