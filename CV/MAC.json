@@ -286,12 +286,12 @@
       },
       {
         "details": {
-          "name": "Agile QR restaurant menu manager",
-          "description": "(Application in production, the interesting part is in the admin control pannel, but you can take a look on the client-side part of the application)\n\n[control pannel example](https://youtu.be/VAVmZtTsJrU)\n\nApplication for convenient and immediate management of the online menu via QR for businesses in the restaurant sector. Client side adapted for use on mobile devices, mobile control panel and desktop.\n\nBenefits:\n\n- Control of available products on the online menu from the mobile device itself, with 1 click.\n- Automatic creation of product descriptions using Artificial Intelligence.\n- App instalation directly by click on the agile-qr logo (only on suported devices)\n- Translation of products into the selected language with 1 click (In progress, not yet implemented).\n- Multi-language (In progress, not yet implemented).\n- Instant product updates without the need to refresh the client's page (using websockets, coming implementation).\n- Menu customization. Custom logo and more.\n\n",
-          "URL": "https://cartanavegacion.fly.dev",
+          "name": "Cartly",
+          "description": "Application for convenient and immediate management of the online menu via QR for businesses in the restaurant sector. Client-side adapted for use on mobile devices, mobile control panels, and desktops.\n\nBenefits:\n\n- Control of available products on the online menu from the mobile device itself, with 1 click.\n- Automatic creation of product descriptions using Artificial Intelligence.\n- Translation of products into the selected language with 1 click (In progress, not yet implemented).\n- Multi-language (In progress, not yet implemented).\n- Instant product updates without the need to refresh the client's page (using websockets, coming implementation).\n- Menu customization. Custom logo and more.\n\nYou can test it by going to `https://cartly.fly.dev/admin/sign_in`\n- email: `test@test.com`\n- password: `Abc123..`",
+          "URL": "https://cartly.fly.dev",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/08/45b3a941-da05-478c-a034-299eee0509bf_logo_example-71027f1.png",
-            "alt": "Logo_example-71027f19f3d513ab801bf20c7d366e390efcdfab899bfca8a7612f2da1d13166.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/09/418d357d-c1c6-43e6-85b4-271c05c9c997_cartly_logo.svg",
+            "alt": "cartly_logo.svg"
           }
         },
         "type": "sideProject",
@@ -318,42 +318,6 @@
               },
               {
                 "name": "Tailwind",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "BlogOnRails",
-          "description": "As I go deeper into Ruby on Rails I discover many sections that were not easy for me to learn at the beginning. Therefore, I would like to share those \"discoveries\" with the intention of helping anyone else who is in the process of learning Rails.\n\nThis application is going to be a blog about Ruby on Rails and its ecosystem.\n\nHaving to write articles, I will have to do a lot of research on the topic beforehand.\n\nconstruction_worker It will be managed 100% by me, and the informative articles will be written to be easily understood (as much as possible).\n\nMy main goal is to make the platform a win/win (users access to interesting information / I learn and practice).\n\nIt will consist of the following sections:\n- Informative articles about using Ruby on Rails.\n- MarkDown + code highlighting\n- Articles organized by tags\n- User login system\n- Internal messaging\n- discussion forum\n- comments in the articles\n- favorites button\n- article search bar\n- filtered articles by tag\n- select theme switch button (dark theme)\n- select language (ES/EN)",
-          "URL": "https://github.com/BraisonCrece/BlogOnRails",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/27/d152c7fb-a20f-47e2-8704-5c24c8ded5fd_captura-desde-2022-1.png",
-            "alt": "Captura desde 2022-10-26 11-41-46.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-10-01",
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby on Rails",
                 "type": "technology"
               }
             ]
@@ -828,10 +792,7 @@
     "goodPractices": "- TDD\n- DRY \n- SOLID\n- Conventional Commits\n",
     "projects": [
       {
-        "name": "Agile QR restaurant menu manager"
-      },
-      {
-        "name": "BlogOnRails"
+        "name": "Cartly"
       },
       {
         "name": "📗OhMyBlog!"
