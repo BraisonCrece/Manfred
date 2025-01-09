@@ -359,50 +359,6 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Airbnb clone",
-          "description": "Being able to see a professional web developer at work (without video cuts) is a very enriching process. I am following TypeFast project on Youtube, taking notes on everything that is new to me, and learning about the actual flow of development:\n\nHave a problem --> Identify the source of the problem --> Know how to find information about the problem --> process the problem --> solve the problem.\n\n(I'm learning A LOT, and i'm pretty happy!)",
-          "URL": "https://github.com/BraisonCrece/Airbnb-clone",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/d5540a9b-3f1c-4448-a948-09a15adccbe9_captura-desde-2022-1.png",
-            "alt": "Captura desde 2022-10-13 17-59-52.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-09-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby on Rails",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
@@ -873,9 +829,6 @@
     "projects": [
       {
         "name": "Agile QR restaurant menu manager"
-      },
-      {
-        "name": "Airbnb clone"
       },
       {
         "name": "BlogOnRails"
