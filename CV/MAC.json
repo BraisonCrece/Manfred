@@ -362,50 +362,6 @@
       },
       {
         "details": {
-          "name": "Scheduled Tweets",
-          "description": "PRACTICE PROJECT - SHEDULED TWEETS\nThe application allows the user to have multiple Twitter accounts and schedule tweets (Who would have thought!) which will be automatically tweeted at the set time.\n\nOn this project I have learned:\n\n- OmniAuth:\n     - config environments \n     - setting API keys \n- Rails Credentials\n    - Using rails credentials:edit to store the Twitter API credentials to development & \n      production \n- Backgroun Jobs\n    - Creating a TweetJob \n    - TweetJob.preform_later(@tweet) \n- Sidekiq and Redis\n    - Installing and setting up Redis-server\n    - Configuring active_job_queue_adapter = :sidekiq \n- Bootstrap \n- Session Cookies \n- PasswordMailer < ApplicationMailer\n    - Config environment to be able to reset passwords by email \n- Deploy application \n    - Scheduled Tweets \n\n\nIt has been a great learning experience. Let's keep going!\n",
-          "URL": "https://tweets-programados.fly.dev/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/d7b41873-86a6-4712-9c96-619bbe6928f4_captura-desde-2022-1.png",
-            "alt": "Captura desde 2022-10-13 20-03-52.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-10-01",
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "PostgreSQL",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby on Rails",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Airbnb clone",
           "description": "Being able to see a professional web developer at work (without video cuts) is a very enriching process. I am following TypeFast project on Youtube, taking notes on everything that is new to me, and learning about the actual flow of development:\n\nHave a problem --> Identify the source of the problem --> Know how to find information about the problem --> process the problem --> solve the problem.\n\n(I'm learning A LOT, and i'm pretty happy!)",
           "URL": "https://github.com/BraisonCrece/Airbnb-clone",
@@ -923,9 +879,6 @@
       },
       {
         "name": "BlogOnRails"
-      },
-      {
-        "name": "Scheduled Tweets"
       },
       {
         "name": "📗OhMyBlog!"
